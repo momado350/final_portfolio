@@ -118,7 +118,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 					   				<div class="slider-text-inner">
 					   					<div class="desc">
-						   					<h1><strong>I am <br>a Data Scientist in Kansas City Area</strong></h1>
+						   					<h1><strong>I am <br>a Jr Data Scientist in Kansas City Area</strong></h1>
 												<h2><strong>I put a work on solving real problems with a right Tools </strong></a></h2>
 
 												
@@ -143,10 +143,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									<div class="about-desc">
 										<span class="heading-meta">About Us</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p><strong>Hi I'm Mohammed</strong> I am originally from Sudan, now I am Missourian, Live in Kansas City, I am Graduated from Sudan University of Science and Technology, College of Agricultural
-										Studies, 2007. I also completed a Master os science of Development Planning at Development Studies and Researchs Institute of University Of Khartoum 2013.</p>
-										<p>I have worked for non-profit Organization, conducted researches and Organized Panels, Training, Field days and engaged in community moblization initiatives. I have also worked for Department of Agriculture for five Years where I have planned many sustainable Agriculture Programs, Modeled Market Researches and applied new technologies and Innovation</p>
-										<p> During my work in both Places the data was our biggest Problem, there was data that we did not know what to do with it, and there were a problems that we did not have data to analize and solve them, that is where I started working with data but I was lacking appropriate tools, I used very traditional tools to solve the problems, I was learning fast, until I moved to the United States Mid 2015, where I continued learning Data but with more Sapohostigated tools, I used Online Platforms such as Udacy, Udemy and Codecademy, And I also used in Campus Programs Like KU Data Analytics Bootcamp where I get my Certificate.</p>
+										<p><strong>Hi I'm Mohammed</strong> I am originally from Sudan the land of Sahara and the Nile, now I am Missourian, Live in Kansas City the home of Chiefs Kingdom, I am Graduated from Sudan University of Science and Technology, College of Agricultural
+										Studies, 2007. I also completed a Master of Development Planning from University Of Khartoum 2013.</p>
+										<p>I have worked for non-profit Organization, conducted researches and Organized Panels, Training, Field days and engaged in community moblization intiatives. I have also worked for Department of Agriculture for five Years where I have planned many sustainable Agriculture Programs, Modeled Market Researches and applied new technologies and Innovation</p>
+										<p> During my work in both Places the data was our biggest Problem, there was data that we did not know what to do with it, and there were a problems that we did not have data to analize and solve them, that is where I started working with data but I was lacking appropriate tools, I used very traditional tools to solve the problems, I was learning fast, until I moved to the United States Mid 2015, where I continued learning Data but with more Sapohostigated tools, I used Online Platforms such as Udacy, Udemy and Codecademy, And I also used in Campus Programs Like KU Data Analytics Bootcamp.</p>
 									</div>
 
 								</div>
@@ -155,9 +155,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 							<div class="row">
 								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 									<div class="hire">
-										<h2>These are Main Languages and platforms that I do confidently on Everyday Basis</h2>
+										<h2>These are Main Languages that I do confidently on Everyday Basis</h2>
 										<!--<a href="https://momado350.github.io/Web-Design-Challenge/"target="_blank" class="btn-hire">Check more thins that I do!</a>-->
-										<a class="btn-hire">hire me!</a>
+										<a class="btn-hire">Do you want the details? </a>
 									</div>
 								</div>
 
@@ -250,7 +250,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									         <div class="panel-body">
 									            <div class="row">
 										      		<div class="col-md-6">
-										      			<p>This degree was attained from Development Studies and Researches Institute, the College of Gradute Studies, at Khartoum University 2013.  </p>
+										      			<p>This degree was attained from Development Studies and Research Institute, the College of Gradute Studies, at Khartoum University 2013.  </p>
 										      		</div>
 										      		<div class="col-md-6">
 										      			<p>This Program took my Analyticatl and Cretical thinking to another Level.</p>
@@ -410,7 +410,7 @@ some states in the USA.
 -the Hypothesis of the Analysis:
 there is a positive relationshipship between positive casess reported and high rate of death from the Virus.
 .</p>
-<p><a href="https://covid19-deaths.herokuapp.com/"target="_blank">App Deployed on Heroku</a></p>
+<p><a href="https://dashboard.heroku.com/apps/covid19-deaths/deploy/github"target="_blank">App Deployed on Heroku</a></p>
 					               </div>
 					            </div>
 					         </article>
